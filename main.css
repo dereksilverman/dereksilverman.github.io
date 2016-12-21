@@ -2,7 +2,7 @@ h1.header {
   font-family: "Poppins";
   font-weight: 700;
   color: #EFEFEF; 
-  font-size: 120px; 
+  font-size: 90px; 
   line-height: 95px; 
   margin-top: 40px;
 }
@@ -13,7 +13,7 @@ h1.header-small {
   font-weight: 700;
   color: #EFEFEF !important;
   font-size: 22px;
-  padding: 10px; 
+  padding: 10px;
   text-align: center;
 }
 
